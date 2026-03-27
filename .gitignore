@@ -5,5 +5,7 @@ __pycache__/
 .env
 venv/
 .env/
-data/tasks.json
+tasks.json
+tasks.txt
 .DS_Store
+.vs/
